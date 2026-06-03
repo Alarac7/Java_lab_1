@@ -31,4 +31,4 @@ This project demonstrates the practical application of basic control structures 
 * Name: Pavel Petrovich Koshelev
 * Group: BST 2401
 * Institution: MTUCI
-* Year: 2026
+* Year: 2026 
